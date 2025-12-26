@@ -1,1 +1,1 @@
-# 3D-Facial-Mapping
+# 3D Facial Mapping
