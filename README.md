@@ -4,6 +4,8 @@ A real-time facial retargeting system that captures human facial expressions via
 
 *(The architecture utilizes a webcam feed to extract 68 facial landmarks and retargets them to a rigged 3D model)*
 
+![Architecture Diagram](./image_avatar.png)
+
 ## 🚀 Features
 
 * **Real-Time Retargeting:** Low-latency mapping of user expressions to digital avatars using OpenCV and Blender's modal operators.
